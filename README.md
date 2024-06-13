@@ -1,2 +1,4 @@
 # py1000grau
-conversor de Celsius para Fahrenheit em python
+Conversor de Celsius para Fahrenheit em python
+
+Entrada e manipulação de float.
